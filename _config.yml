@@ -83,8 +83,8 @@ author:
   name             : "Dr Beth Malory"
   avatar           : "profile.png"
   bio              : "Research Fellow in Linguistics"
-  location         : "Lancaster University"
-  employer         : "Lancaster University"
+  location         : 
+  employer         : "https://www.lancaster.ac.uk/"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=beth+malory"
   googlescholar    : "https://scholar.google.com/citations?user=ZuZzj0IAAAAJ&hl=en&oi=ao"
   email            : "b.malory@lancaster.ac.uk"
