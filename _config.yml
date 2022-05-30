@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Beth Malory"
+title                    : "Dr Beth Malory"
 title_separator          : "-"
-name                     : &name "Dr. Beth Malory"
-description              : &description "personal description"
+name                     : &name "Dr Beth Malory"
+description              : &description "Research Fellow in Linguistics"
 url                      : https://bethmalory.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bethmalory/bethmalory.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr Beth Malory"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Research Fellow in Linguistics"
+  location         : "Lancaster University"
+  employer         : "Lancaster University"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=beth+malory"
+  googlescholar    : "https://scholar.google.com/citations?user=ZuZzj0IAAAAJ&hl=en&oi=ao"
+  email            : "b.malory@lancaster.ac.uk"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : 
+  orcid            : "http://orcid.org/0000-0002-5794-4403"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "bethmalory"
   vine             :
   weibo            :
   xing             :
