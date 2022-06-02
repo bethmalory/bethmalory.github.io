@@ -16,7 +16,7 @@ At present, my primary research interests lie in the relationship between differ
 
 * LanGuid: Evidence-based language guidelines for pregnancy loss language in healthcare. I am working with charities including [Tommy's](https://www.tommys.org/), [Sands](https://www.sands.org.uk/), and [ARC](https://www.arc-uk.org/) to explore the impact of language on experiences of pregnancy loss. 
 * Analysing the Language of Speciesism (ALaS, funded by [Animal Think Tank](https://animalthinktank.org.uk/)). 
-* *Introducing Linguistics*. I am co-editing a new linguistics textbook, to be published by Routledge in 2022 (with [Jonathan Culpeper](https://www.lancaster.ac.uk/linguistics/about/people/jonathan-culpeper), [Dimitrinka Atanasova](https://www.lancaster.ac.uk/linguistics/about/people/dimitrinka-atanasova), [Sam Kirkham](https://www.lancaster.ac.uk/linguistics/about/people/sam-kirkham), [Claire Nance](https://www.lancaster.ac.uk/linguistics/about/people/claire-nance), and [Daniel Van Olmen](https://www.lancaster.ac.uk/linguistics/about/people/daniel-van-olmen). 
+* *Introducing Linguistics*. I am co-editing a new linguistics textbook, to be published by Routledge in 2022 (with [Jonathan Culpeper](https://www.lancaster.ac.uk/linguistics/about/people/jonathan-culpeper), [Dimitrinka Atanasova](https://www.lancaster.ac.uk/linguistics/about/people/dimitrinka-atanasova), [Sam Kirkham](https://www.lancaster.ac.uk/linguistics/about/people/sam-kirkham), [Claire Nance](https://www.lancaster.ac.uk/linguistics/about/people/claire-nance), and [Daniel Van Olmen](https://www.lancaster.ac.uk/linguistics/about/people/daniel-van-olmen)). 
 
 
 Potential collaborations
