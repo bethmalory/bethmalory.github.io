@@ -15,21 +15,41 @@ Education
 * MSt in English Language, University of Oxford, 2013
 * PhD in Linguistics, Lancaster University, 2021 
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-present: Research Assistant, *Introducing Linguistics*
+  * Department of Linguistics and English Language, Lancaster University/Routledge
+  * Supervisor: Prof. Jonathan Culpeper 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-2021: Research Assistant, *Spoken Learner Corpus Project*
+  * Centre for Corpus Approaches to Social Science, Lancaster University
+  * Supervisor: Prof. Tony McEnery
   
-Skills
+* 2016-2019: Advisor, *Encyclopaedia of Shakespeare's Language* Project
+  * Department of Linguistics and English Language, Lancaster University
+ 
+* 2014-2015: Research Associate, *SAMUELS* Project
+  * University of Central Lancashire
+  * Supervisor: Prof. Dawn Archer
+ 
+Teaching experience
 ======
-* Skill 1
+* 2021-present: Visiting Lecturer
+  * Department of Linguistics and English Language, Lancaster University
+
+* 2015-2020: Associate Lecturer Lecturer
+  * Department of Linguistics and English Language, Lancaster University
+  
+* 2014-2015: Visiting Lecturer
+  * Department of English, Liverpool Hope University
+  
+* 2014-2015: Visiting Lecturer
+  * Department of Linguistics and English Language, University of Manchester
+
+* 2012-2013, Administrative Assistant
+  * Administrative Division, University of Oxford
+
+
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
