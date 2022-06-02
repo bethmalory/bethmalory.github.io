@@ -14,19 +14,19 @@ Current research
 ======
 At present, my primary research interests lie in the relationship between different types of prescriptivism (for instance progressive/politically responsive or conservative/standardizing) and language change. My research explores methodological approaches that can be used to examine the mechanisms through which prescriptive dogma impacts language use, and I am particularly interested in the ways in which 'inclusive' language guidelines are implemented, particularly in the context of gender and sexuality in obstetric and gynaecological care. I am currently working on the following projects: 
 
-        - LanGuid: Evidence-based language guidelines for pregnancy loss language in healthcare. I am working with charities including [Tommy's](https://www.tommys.org/), [Sands](https://www.sands.org.uk/), and [ARC](https://www.arc-uk.org/) to explore the impact of language on experiences of pregnancy loss. 
-        - Analysing the Language of Speciesism (ALaS, funded by [Animal Think Tank](https://animalthinktank.org.uk/)). 
-        - 'Introducing Linguistics'. I am co-editing a new linguistics textbook, to be published by Routledge in 2022 (with [Jonathan Culpeper](https://www.lancaster.ac.uk/linguistics/about/people/jonathan-culpeper), [Dimitrinka Atanasova](https://www.lancaster.ac.uk/linguistics/about/people/dimitrinka-atanasova), [Sam Kirkham](https://www.lancaster.ac.uk/linguistics/about/people/sam-kirkham), [Claire Nance](https://www.lancaster.ac.uk/linguistics/about/people/claire-nance), and [Daniel Van Olmen](https://www.lancaster.ac.uk/linguistics/about/people/daniel-van-olmen). 
+* LanGuid: Evidence-based language guidelines for pregnancy loss language in healthcare. I am working with charities including [Tommy's](https://www.tommys.org/), [Sands](https://www.sands.org.uk/), and [ARC](https://www.arc-uk.org/) to explore the impact of language on experiences of pregnancy loss. 
+* Analysing the Language of Speciesism (ALaS, funded by [Animal Think Tank](https://animalthinktank.org.uk/)). 
+* *Introducing Linguistics*. I am co-editing a new linguistics textbook, to be published by Routledge in 2022 (with [Jonathan Culpeper](https://www.lancaster.ac.uk/linguistics/about/people/jonathan-culpeper), [Dimitrinka Atanasova](https://www.lancaster.ac.uk/linguistics/about/people/dimitrinka-atanasova), [Sam Kirkham](https://www.lancaster.ac.uk/linguistics/about/people/sam-kirkham), [Claire Nance](https://www.lancaster.ac.uk/linguistics/about/people/claire-nance), and [Daniel Van Olmen](https://www.lancaster.ac.uk/linguistics/about/people/daniel-van-olmen). 
 
 
 Potential collaborations
 ======
 Please get in touch if you would like to discuss ideas or collaborations in any of the areas mentioned above. I would be especially excited to discuss possible collaborations in relation to the following:
 
-        - Applications of change point analysis to (corpus) linguistic data
-        - Discursive investigations of prescriptivism, patriarchy, kyriarchy, speciesism, or other manifestations of social hierarchy
-        - Methodologies for measuring effects of prescriptivism
-        - Theoretical frameworks for understanding politically responsive prescriptivism
+* Applications of change point analysis to (corpus) linguistic data
+* Discursive investigations of prescriptivism, patriarchy, kyriarchy, speciesism, or other manifestations of social hierarchy
+* Methodologies for measuring effects of prescriptivism
+* Theoretical frameworks for understanding politically responsive prescriptivism
 
 
 
