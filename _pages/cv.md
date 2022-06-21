@@ -22,7 +22,7 @@ Research experience
   * Supervisor: Prof. Jonathan Culpeper 
 
 * 2021-present: Principal Investigator, *Analysing the Language of Speciesism*
-  * Funded by [Animal Think Tank])(https://animalthinktank.org.uk/)
+  * Funded by [Animal Think Tank](https://animalthinktank.org.uk/)
 
 * 2020-2021: Research Assistant, *Spoken Learner Corpus Project*
   * Centre for Corpus Approaches to Social Science, Lancaster University
