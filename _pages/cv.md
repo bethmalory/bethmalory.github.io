@@ -17,9 +17,12 @@ Education
 
 Research experience
 ======
-* 2021-present: Research Assistant, *Introducing Linguistics*
+* 2021-present: Managing Editor, *Introducing Linguistics*
   * Department of Linguistics and English Language, Lancaster University/Routledge
   * Supervisor: Prof. Jonathan Culpeper 
+
+* 2021-present: Principal Investigator, *Analysing the Language of Speciesism*
+  * Funded by [Animal Think Tank])(https://animalthinktank.org.uk/)
 
 * 2020-2021: Research Assistant, *Spoken Learner Corpus Project*
   * Centre for Corpus Approaches to Social Science, Lancaster University
@@ -37,43 +40,46 @@ Teaching experience
 * 2021-present: Visiting Lecturer
   * Department of Linguistics and English Language, Lancaster University
 
-* 2015-2020: Associate Lecturer Lecturer
+* 2021: Learning Facilitator, Shakespeare's Language MOOC
+  * Department of Linguistics and English Language, Lancaster University/FutureLearn
+
+* 2015-2020: Associate Lecturer 
   * Department of Linguistics and English Language, Lancaster University
+
+* 2015-2016: Lecturer
+  * International Summer Programme, Lancaster University
   
-* 2014-2015: Visiting Lecturer
+* 2015-2016: Visiting Lecturer/Course Convenor
   * Department of English, Liverpool Hope University
+
+* 2021: Learning Facilitator, Corpus Linguistics MOOC
+  * Department of Linguistics and English Language, Lancaster University/FutureLearn
   
-* 2014-2015: Visiting Lecturer
+* 2014-2015: Visiting Lecturer/Course Convenor
   * Department of Linguistics and English Language, University of Manchester
 
 * 2012-2013, Administrative Assistant
   * Administrative Division, University of Oxford
 
 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+  See [Publications](https://bethmalory.github.io/publications/)  
+  
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+See [Talks]((https://bethmalory.github.io/talks/)  
+
   
-Teaching
+Professional membership
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* British Association for Applied Linguistics
+* Philological Society
+* International Ecolinguistics Association
+* Social Research Association
+* International Gender and Language Association
+* Association for Medical Humanities
