@@ -72,7 +72,7 @@ Publications
 Talks
 ======
 
-See [Talks]((https://bethmalory.github.io/talks/)  
+See [Talks](https://bethmalory.github.io/talks/)  
 
   
 Professional membership
