@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr Beth Malory"
 title_separator          : "-"
 name                     : &name "Dr Beth Malory"
-description              : &description "Research Fellow in Linguistics"
+description              : &description "Lecturer in English Linguistics"
 url                      : https://bethmalory.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bethmalory/bethmalory.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr Beth Malory"
   avatar           : "profile.jpg"
-  bio              : "Research Fellow in Linguistics"
+  bio              : "Lecturer in English Linguistics"
   location         : "https://www.lancaster.ac.uk/linguistics/about/people/beth-malory"
   employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=beth+malory"
   googlescholar    : "https://scholar.google.com/citations?user=ZuZzj0IAAAAJ&hl=en&oi=ao"
-  email            : "b.malory@lancaster.ac.uk"
+  email            : "b.malory@ucl.ac.uk"
   researchgate     : 
   uri              :
   bitbucket        :
