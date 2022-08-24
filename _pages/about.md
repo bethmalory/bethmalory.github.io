@@ -22,7 +22,7 @@ At present, my primary research interests lie in the relationship between differ
 * *Introducing Linguistics*. I am co-editing a new linguistics textbook, to be published by Routledge in 2022 (with [Jonathan Culpeper](https://www.lancaster.ac.uk/linguistics/about/people/jonathan-culpeper), [Dimitrinka Atanasova](https://www.lancaster.ac.uk/linguistics/about/people/dimitrinka-atanasova), [Aina Casaponsa](https://www.lancaster.ac.uk/linguistics/about/people/aina-casaponsa), [Sam Kirkham](https://www.lancaster.ac.uk/linguistics/about/people/sam-kirkham), [Claire Nance](https://www.lancaster.ac.uk/linguistics/about/people/claire-nance), and [Daniel Van Olmen](https://www.lancaster.ac.uk/linguistics/about/people/daniel-van-olmen)). 
 
 
-Potential collaborations
+Potential collaborations and supervision
 ======
 Please get in touch if you would like to discuss ideas or collaborations in any of the areas mentioned above. I would be especially excited to discuss possible collaborations in relation to the following:
 
@@ -35,4 +35,4 @@ Please get in touch if you would like to discuss ideas or collaborations in any 
 
 Get in touch
 ------
-Email me at b.malory@lancaster.ac.uk, or get in touch on Twitter [@bethmalory](https://twitter.com/BethMalory?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). 
+Email me at b.malory@ucl.ac.uk, or get in touch on Twitter [@bethmalory](https://twitter.com/BethMalory?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). 
