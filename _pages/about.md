@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website! Feel free to look around but please excuse anything that isn't quite finished- it is still under construction. 
+Welcome to my website. Feel free to look around but please excuse anything that isn't quite finished- it is still under construction. 
 
 I am Lecturer in English Linguistics within the [Department of English Language and Literature](https://www.ucl.ac.uk/english/) at [University College London](https://www.ucl.ac.uk/), and a Visiting Research Fellow within the [Department of Linguistics and English Language](https://www.lancaster.ac.uk/linguistics/) at [Lancaster University](https://www.lancaster.ac.uk/), where I also completed my PhD.
 
