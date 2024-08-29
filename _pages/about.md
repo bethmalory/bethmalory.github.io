@@ -7,28 +7,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website! Feel free to look around but please excuse anything that isn't quite finished- it is still under construction. 
+Welcome to my website! Feel free to look around and get in touch. 
 
-I am Lecturer in English Linguistics within the [Department of English Language and Literature](https://www.ucl.ac.uk/english/) at [University College London](https://www.ucl.ac.uk/), and a Visiting Research Fellow within the [Department of Linguistics and English Language](https://www.lancaster.ac.uk/linguistics/) at [Lancaster University](https://www.lancaster.ac.uk/), where I also completed my PhD.
+I am Lecturer in English Linguistics within the [Department of English Language and Literature](https://www.ucl.ac.uk/english/) at [University College London](https://www.ucl.ac.uk/). Prior to joining UCL in 2022, I was a Visiting Research Fellow within the [Department of Linguistics and English Language](https://www.lancaster.ac.uk/linguistics/) at [Lancaster University](https://www.lancaster.ac.uk/), where I also completed my PhD in 2021.
 
-My research aims to understand how innovative corpus linguistic approaches can help to further understanding of the mechanisms through which languages change over time. I am particularly interested in linguistic changes prompted by prescriptivism, and exploring how new methodologies can help us to understand these. Much of my research also draws upon discourse studies, and explores how social hierarchies are created and perpetuated discursively. I have previously been involved in research across a wide range of related linguistic sub-disciplines, for example the [SAMUELS Project](https://www.gla.ac.uk/schools/critical/research/fundedresearchprojects/samuels/) and the [Spoken Learner Corpus Project](https://www.trinitycollege.com/about-us/research/Trinity-corpus).
+My research aims to understand how mixed-methods approaches can help to further understanding of 1) the impacts of language in the social world, and particularly in healthcare contexts, and 2) the mechanisms through which languages change over time. I am particularly interested in linguistic changes prompted by prescriptivism, and exploring how new methodologies can help us to understand these. Much of my research also draws upon discourse studies, and explores how social hierarchies are created and perpetuated discursively. I have previously been involved in research across a wide range of related linguistic sub-disciplines, for example the [SAMUELS Project](https://www.gla.ac.uk/schools/critical/research/fundedresearchprojects/samuels/) and the [Spoken Learner Corpus Project](https://www.trinitycollege.com/about-us/research/Trinity-corpus).
 
 Current research
 ======
-At present, my primary research interests lie in the relationship between different types of prescriptivism (for instance progressive/politically responsive or conservative/standardizing) and language change. My research explores methodological approaches that can be used to examine the mechanisms through which prescriptive dogma impacts language use, and I am particularly interested in the ways in which 'inclusive' language guidelines are implemented, particularly in the context of gender and sexuality in obstetric and gynaecological care. I am currently working on the following projects: 
+At present, my primary applied research interests lie in understanding how the language used in and around reproductive healthcare contexts affects experiences and perceptions. I am particularly focused on exploring how pregnancy loss terminology impacts experiences of delivering and receiving care during and after pregnancy loss, and am Principal Investigator on 2 projects using participatory approaches to explore this topic. Separately, I am also collaborating on an experimental project to explore whether terminology around termination of pregnancy conditions beliefs about access to reproductive healthcare. I am also involved with research projects being led by the UCL Institute for Global Health. I am currently working on the following projects: 
 
-* LanGuAGE: Language Guidelines for Adverse Gestational Events. I am working with charities including [Tommy's](https://www.tommys.org/), [Sands](https://www.sands.org.uk/), and [ARC](https://www.arc-uk.org/) to explore the impact of language on experiences of pregnancy loss and create evidence-based language guidelines for pregnancy loss language in healthcare.
-* Analysing the Language of Speciesism (ALaS, funded by [Animal Think Tank](https://animalthinktank.org.uk/)). 
-* *Introducing Linguistics*. I am co-editing a new linguistics textbook, to be published by Routledge in 2022 (with [Jonathan Culpeper](https://www.lancaster.ac.uk/linguistics/about/people/jonathan-culpeper), [Dimitrinka Atanasova](https://www.lancaster.ac.uk/linguistics/about/people/dimitrinka-atanasova), [Aina Casaponsa](https://www.lancaster.ac.uk/linguistics/about/people/aina-casaponsa), [Sam Kirkham](https://www.lancaster.ac.uk/linguistics/about/people/sam-kirkham), [Claire Nance](https://www.lancaster.ac.uk/linguistics/about/people/claire-nance), and [Daniel Van Olmen](https://www.lancaster.ac.uk/linguistics/about/people/daniel-van-olmen)). 
+* EStELC (Engaging Stakeholders to Explore Linguistic Challenges in Communicating about Pregnancy Loss), Principal Investigator. Funded by AHRC and in partnership with the charities  [Tommy's](https://www.tommys.org/) and [Sands](https://www.sands.org.uk/), we are conducting qualitative research to explore the impact of language on experiences of receiving and delivering care during and after pregnancy loss.
+* SUPPL (Supporting Policymakers to Negotiate Communicative Challenges around Pregnancy Loss), Principal Investigator. Funded by Research England, and also in partnership with Tommy's and Sands, this project is using an online questionnaire to assess the impact of language on experiences of pregnancy loss more broadly, and create evidence-based guidelines for pregnancy loss language in policy documents.
+* VERDI-Qual, Co-Investigator. Funded by the VERDI Consortium and led from within the UCL Institute of Global Health, this research is exploring pandemic preparedness. I am using Corpus Linguistic approaches to explore media coverage of mpox outbreaks in 2022 and 2024.
 
+From January 2025, I will also be Co-I on another project led from within UCL's Institute for Global Health, COMMET (Co-producing Mathematical Modelling for Epidemics Together), funded by UKRI. This interdisciplinary project exploring how mathematical modelling for infectious diseases can be co-produced with the public, and I will be conducting a corpus linguistic analysis of news media representations of epidemic modelling. 
+
+My theoretical research interests lie in prescriptivism, and especially in exploring  'politically responsive' and 'grassroots' prescriptivism and theories about progressive prescriptivism.
 
 Potential collaborations and supervision
 ======
 Please get in touch if you would like to discuss ideas or collaborations in any of the areas mentioned above. I would be especially excited to discuss possible collaborations in relation to the following:
 
-* Applications of change point analysis to (corpus) linguistic data
-* Discursive investigations of prescriptivism, patriarchy, kyriarchy, speciesism, or other manifestations of social hierarchy
-* Methodologies for measuring effects of prescriptivism
+* Language and/or discourses used to discuss reproductive healthcare, especially pregnancy loss and termination of pregnancy
+* Methodologies for measuring impacts of prescriptivism
 * Theoretical frameworks for understanding politically responsive prescriptivism
 
 
