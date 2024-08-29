@@ -17,19 +17,25 @@ Education
 
 Research experience
 ======
+* 2024-present: Co-Investigator, VERDI-Qual
+  * Funded by VERDI Consortium
+  * Institute for Global Health, University College London
+    
+* 2023-present: Principal Investigator, EStELC
+  * Funded by AHRC
+  * Department of English Language and Literature, University College London
+    
+* 2023-present: Principal Investigator, SUPPL
+  * Funded by Research England
+  * Department of English Language and Literature, University College London
+
 * 2021-present: Managing Editor, *Introducing Linguistics*
   * Department of Linguistics and English Language, Lancaster University/Routledge
   * Supervisor: Prof. Jonathan Culpeper 
 
-* 2021-present: Principal Investigator, *Analysing the Language of Speciesism*
-  * Funded by [Animal Think Tank](https://animalthinktank.org.uk/)
-
 * 2020-2021: Research Assistant, *Spoken Learner Corpus Project*
   * Centre for Corpus Approaches to Social Science, Lancaster University
   * Supervisor: Prof. Tony McEnery
-  
-* 2016-2019: Advisor, *Encyclopaedia of Shakespeare's Language* Project
-  * Department of Linguistics and English Language, Lancaster University
  
 * 2014-2015: Research Associate, *SAMUELS* Project
   * University of Central Lancashire
@@ -37,7 +43,10 @@ Research experience
  
 Teaching experience
 ======
-* 2021-present: Visiting Lecturer
+* 2022-present: Lecturer in English Linguistics
+  * Department of English Language and Literature, UCL
+
+* 2021-2022: Visiting Lecturer
   * Department of Linguistics and English Language, Lancaster University
 
 * 2021: Learning Facilitator, Shakespeare's Language MOOC
@@ -75,11 +84,10 @@ Talks
 See [Talks](https://bethmalory.github.io/talks/)  
 
   
-Professional membership
+Professional memberships
 ======
 * British Association for Applied Linguistics
-* Philological Society
-* International Ecolinguistics Association
+* British Maternal Fetal Medicine Society
 * Social Research Association
 * International Gender and Language Association
 * Association for Medical Humanities
